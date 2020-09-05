@@ -1,0 +1,33 @@
+body{
+	font-family: "Gill Sans", sans-serif;
+}
+#header_pho{
+	width:100%;
+}
+#main{
+	width: 100%;
+	
+	text-align: center;
+	margin-top:0%;
+}
+#basic_intro{
+	font-size: 20px;
+	background-color: #112135;
+	
+	color: white;
+}
+#divider{
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-color: #7a7a7a;
+	border-top-style: solid;
+	border-top-width: 5px;
+	width: 100%;
+}
+#tab{
+background-color: #f7f7f7;
+}
+td{
+	width: 50%;
+}
